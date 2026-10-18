@@ -6,4 +6,4 @@ blockquote{margin:1rem 0;padding:.6rem 1rem;background:var(--panel);border-left:
 table{border-collapse:collapse;width:100%;font-size:.92rem;display:block;overflow-x:auto}td,th{border:1px solid #8885;padding:.5rem .6rem;vertical-align:top}th{background:var(--panel)}
 .ph{background:var(--warn);color:#000;padding:0 .2em;border-radius:3px}nav{font-size:.9rem;color:var(--sub);margin-bottom:1rem}nav a{margin-right:1rem}
 .btn{display:inline-block;padding:.7rem 1.4rem;border-radius:12px;background:#2c6cff;color:#fff;text-decoration:none;opacity:.5}.btn{opacity:1}.btn.off{opacity:.5}.card{background:var(--panel);border-radius:14px;padding:1rem 1.2rem;margin:1rem 0}
-.line{display:inline-block;padding:.75rem 1.4rem;border-radius:12px;background:#06c755;color:#fff;text-decoration:none;font-weight:700}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(15rem,1fr));gap:1rem;margin:1rem 0}.grid .card{margin:0}.price{font-size:1.5rem;font-weight:700}.sub{opacity:.75;font-size:.9rem}.steps{padding-left:1.2rem}.line{display:inline-block;padding:.75rem 1.4rem;border-radius:12px;background:#06c755;color:#fff;text-decoration:none;font-weight:700}
