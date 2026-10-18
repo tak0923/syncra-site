@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>SYNCRA</title>
+    <language>ja</language>
+    <item>
+      <title>SYNCRA 0.1.2 (3)</title>
+      <pubDate>Sun, 18 Oct 2026 05:42:36 +0000</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://tak0923.github.io/syncra-site/download/SYNCRA-0.1.2-3.zip" length="12582032" type="application/octet-stream" sparkle:edSignature="6oNcmyn70cSFaFzipaLjjyM5rN0sviUA/BpsrPZyQ5W/s2hnPliJkqZqd5jv5tc6xMbp+38uScQcIcUA6/WkAA==" />
+    </item>
+  </channel>
+</rss>
