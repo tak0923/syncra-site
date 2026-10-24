@@ -4,6 +4,14 @@
     <title>SYNCRA</title>
     <language>ja</language>
     <item>
+      <title>SYNCRA 0.1.3 (5)</title>
+      <pubDate>Sat, 24 Oct 2026 01:33:23 +0000</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://tak0923.github.io/syncra-site/download/SYNCRA-0.1.3-5.zip" length="14698433" type="application/octet-stream" sparkle:edSignature="ZhU/6ATTz6gPNUipMjPxsqt8+CthlHCVXOCmHbMNNQWoqf+TzQXncNOHgAU7Z8cs3sA0oP79kpb9ju07AiWpDA==" />
+    </item>
+    <item>
       <title>SYNCRA 0.1.2 (3)</title>
       <pubDate>Sun, 18 Oct 2026 05:42:36 +0000</pubDate>
       <sparkle:version>3</sparkle:version>
